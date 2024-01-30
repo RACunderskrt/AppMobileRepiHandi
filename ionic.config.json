@@ -1,0 +1,7 @@
+{
+  "name": "sae_ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
