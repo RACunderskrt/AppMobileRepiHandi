@@ -3,3 +3,5 @@ Répihandi est une application téléphone permettant a des bénévoles de se re
 Le commanditaire de l'application est l'association "Cyril sa bataille" et cette application est réalisée au sein d'un projet universitaire pour l'IUT d'Arles. <br/>
 ## Technologie
 Ionic, VueJS, CSS
+## Compilation
+ionic serve
